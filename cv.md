@@ -28,4 +28,5 @@ for (i = 0; i < preferences.length;);
   return result;
  };
  ```
+## I learned [JavaScript](https://learn.javascript.ru/), I have completed HTML/CSS courses online: [Codecademy](https://www.codecademy.com/users/danila211/achievements)
  
