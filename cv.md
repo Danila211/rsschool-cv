@@ -31,3 +31,5 @@ for (i = 0; i < preferences.length;);
 ## I learned [JavaScript](https://learn.javascript.ru/), I have completed HTML/CSS courses online: [Codecademy](https://www.codecademy.com/users/danila211/achievements)
 
 ## Belarusian State Agrarian Technical University - Management. RSSCHOOL courses.
+
+## The level of English is not very high, but I practice it in online courses.
