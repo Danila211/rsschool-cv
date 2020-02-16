@@ -62,6 +62,29 @@
           </li>
         </ul>
     </section>
+    <section>
+        <h2 class="h2">Code examples:</h2> 
+        <ul>
+          <li>
+            <p><xmp>for (i = 0; i < preferences.length;);
+              let correntIndex = i + 1;
+              cats[correntIndex] = preferences[i];
+              let triangleCount = 0;
+              for (let firstCat in cats){
+              let secondCat = cats[firstCat];
+              let thirdCat = cats[secondCat];
+              let isThirdCatLovesFirstCat = cats[thirdCat] == firstCat;
+              let isFirstCatLovesHimself = cats[firstCat]== firstCat ;
+              if (isThirdCatLovesFirstCat && !isFirstCatLovesHimself){
+              triangleCount++;
+                }
+              }
+              let result = triangleCount / 3;
+              return result;
+              };</xmp></p>
+          </li>
+        </ul>  
+      </section>
     </div>
   </body>
 </html>
