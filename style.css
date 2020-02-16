@@ -10,3 +10,12 @@ body {
   justify-content: center;
   flex-direction: row;
 }
+
+.resume {
+  font-size: 20px;
+}
+
+.name {
+  font-size: 30px;
+  color: rgb(21, 145, 202);
+}
