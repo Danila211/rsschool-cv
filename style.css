@@ -1,0 +1,33 @@
+body {
+  font-family: "Lacquer", sans-serif;
+}
+
+.box {
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.resume {
+  font-size: 20px;
+}
+
+.name {
+  font-size: 30px;
+  color: rgb(21, 145, 202);
+}
+
+.logo {
+  border-radius: 10%;
+}
+
+.h2 {
+  font-weight: bold;
+}
+
+.ul {
+  line-height: 10px;
+}
