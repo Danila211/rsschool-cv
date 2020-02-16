@@ -19,3 +19,15 @@ body {
   font-size: 30px;
   color: rgb(21, 145, 202);
 }
+
+.logo {
+  border-radius: 10%;
+}
+
+.h2 {
+  font-weight: bold;
+}
+
+.ul {
+  line-height: 10px;
+}
